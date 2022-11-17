@@ -1,14 +1,14 @@
 # Linux Essentials Learning Path
 
-## 1) Sistemas Operativos
+#### 1) Sistemas Operativos
 
-## 2) Funcionamiento de Linux
+#### 2) Funcionamiento de Linux
 
-## 3) Usuarios y grupos
+#### 3) Usuarios y grupos
 
-## 4) Arbol de directorios
+#### 4) Arbol de directorios
 
-## 5) Shells
+#### 5) Shells
     a. bash, sh, ksh, csh
     b. whoami, who, w 
     c. pwd, cd, mkdir
@@ -16,14 +16,14 @@
     e. cat, more, less, tail
     f. Editores (vi, vim, nano)
 
-## 6) Administración
+#### 6) Administración
     a. Shell scripts
     b. procesos (ps, top, kill)
     c. permisos (chmod, chgrp, chown, umask)
     d. find
     e. Administración de paquetes (apt, yum, dnf)
 
-## 7) Almacenamiento (Storage)
+#### 7) Almacenamiento (Storage)
     a. Filesystems
     b. Swap
     c. Buffer Cache
